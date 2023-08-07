@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import csv
 import timeit
 import queue
-import requests
 from bs4 import BeautifulSoup
 import urllib.parse
 
@@ -19,6 +18,13 @@ NOM_FICHIER = "liste_produits.csv"
 # Définissez le délai de temps entre les accès en seconde
 TIME_DELAY = 1/1000
 
+# Définissez le proxy
+PROXY = "http://QX6:2023ESI2023ESI_@172.19.78.70:8080"
+PROXIES = {
+    "http":PROXY,
+    "https" : PROXY
+}
+
 # Classe du produit
 class Produit :
     def __init__(self, code , label ):
@@ -32,7 +38,7 @@ def get_links_from_page_tbody(url):
     liste_des_liens = []
 
     # Envoyez une requête GET à l'URL spécifié
-    response = requests.get(url, verify=False)
+    response = requests.get(url, verify=False,proxies=PROXIES)
     # time.sleep(TIME_DELAY)
 
     content = response.text
@@ -57,7 +63,7 @@ def get_produits_from_page_tbody(url):
     liste_produits = []
 
     # Envoyez une requête GET à l'URL spécifié
-    response = requests.get(url, verify=False)
+    response = requests.get(url, verify=False,proxies=PROXIES)
 
     # time.sleep(TIME_DELAY)
     content = response.text
