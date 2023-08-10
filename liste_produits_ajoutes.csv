@@ -1,0 +1,482 @@
+Code,Label
+0101211100,De pur sang arabe
+0101211900,Autres que de pur sang arabe
+0101219100,De pur sang arabe
+0101219900,Autres
+0101291000,De course
+0101292000,Pour abattage
+0101293100,Etalons et hongres
+0101293200,juments
+0101293300,Poulains et pouliches
+0101293400,Poneys et ponettes
+0101299100,Etalons et hongres
+0101299200,juments
+0101299300,Poulains et pouliches
+0101299400,Poneys et ponettes
+0101301000,Reproducteurs de race pure
+0101309110,Anes
+0101309120,Anesses
+0101309130,Anons
+0101309900,Autres que des especes domestiques 
+0101901100,Des especes domestiques 
+0101901900,Autres que des especes domestiques 
+0101902100,Des especes domestiques 
+0101902900,Autres que des especes domestiques 
+0102210000,Reproducteurs de race pure
+0102291000,Vaches laitieres
+0102292000,Genisses pleines et veles
+0102299110,Veaux (qui n’ont pas de dents de remplacement)
+0102299120,"Taureaux, boeufs et taurillons"
+0102299130,Vaches
+0102299190,Autres
+0102299910,Veaux (qui n’ont pas de dents de remplacement)
+0102299920,"Taureaux, boeufs et taurillons"
+0102299930,Vaches
+0102299990,Autres
+0102310000,Reproducteurs de race pure 
+0102390000,Autres 
+0102901000,Reproducteurs de race pure 
+0102909100,Antilopes de la sous-famille Bovinae
+0102909900,Autres
+0103100000,Reproducteurs de race pure 
+0103911000,Des especes domestiques 
+0103919000,Autres
+0103921000,Des especes domestiques 
+0103929000,Autres
+0104101000,Reproducteurs de race pure
+0104109110,Pour abattage
+0104109191,Agneaux et agnelles  (qui n’ont pas de dents de remplacement)
+0104109192,Brebis
+0104109199,Autres
+0104109900,Autres que des especes domestiques 
+0104201000,Reproducteurs de race pure
+0104209110,Pour abattage
+0104209191,Chevres
+0104209192,Chevreaux (qui n’ont pas de dents de remplacement)
+0104209199,Autres
+0104209900,Autres que des especes domestiques 
+0105111000,"Poussins dits d'un jour ""chair"""
+0105112000,"Poussins dits d'un jour ""ponte"""
+0105113000,"Poussins dits d'un jour ""repro-chair"""
+0105114000,"Poussin dits d'un jour ""repro-ponte"""
+0105121000,"Dindes et dindons, dit ""d'un jour"", destines a donner des reproducteurs"
+0105122000,"Dindes et dindons dit ""d'un jour"" de race de chair"
+0105123000,"Dindes et dindons dit ""d'un jour"" de race de ponte"
+0105131000,"Canards dit ""d'un jour"", destines a donner des reproducteurs"
+0105132000,"Canards dit ""d'un jour"" de race de chair"
+0105133000,"Canards dit ""d'un jour"" de race de ponte"
+0105141000,"Oies dit ""d'un jour"", destines a donner des reproducteurs"
+0105142000,"Oies dit ""d'un jour"" de race de chair"
+0105143000,"Oies dit ""d'un jour"" de race de ponte"
+0105151000,"Pintades dit ""d'un jour"", destines a donner des reproducteurs"
+0105152000,"Pintades dit ""d'un jour"" de race de chair"
+0105153000,"Pintades dit ""d'un jour"" de race de ponte"
+0105941100,Reproducteurs
+0105941200,Pour abattage
+0105941900,Autres
+0105942100,Reproducteurs
+0105942200,Pour abattage
+0105942900,Autres
+0105991100,Reproducteurs
+0105991200,Pour abattage
+0105991900,Autres
+0105992100,Reproducteurs
+0105992200,Pour abattage
+0105992900,Autres
+0105993100,Reproducteurs
+0105993200,Pour abattage
+0105993900,Autres
+0105994100,Reproducteurs
+0105994200,Pour abattage
+0105994900,Autres
+0106111000,Destines aux parcs zoologiques
+0106119000,Autres
+0106121100,"Baleines, dauphins et marsouins (mammiferes de l'ordre des cetaces)"
+0106121200,Lamantins et dugongs (mammiferes de l'ordre des sireniens) 
+0106122100,Reproducteur de race pure
+0106122900,Autres
+0106131000,Reproducteur de race pure
+0106139000,Autres
+0106141000,Reproducteur de race pure
+0106149100,Destines aux parcs zoologiques 
+0106149910,Lapins
+0106149920,lievres
+0106191100,Chiens
+0106191900,Autres
+0106199100,Destines aux parcs zoologiques 
+0106199210,Chamois
+0106199220,Renards
+0106199230,Visons
+0106199290,Autres
+0106199910,Antilopes autres que ceux de la sous-famille Bovinae du N 01.02
+0106199990,Autres
+0106201000,Destines aux parcs zoologiques 
+0106209100,Tortues
+0106209900,Autres reptiles
+0106311000,Destines aux parcs zoologiques 
+0106319000,Autres
+0106321000,Destines aux parcs zoologiques 
+0106329000,Autres
+0106331000,Destines aux parcs zoologiques 
+0106339000,Autres
+0106391000,Destines aux parcs zoologiques 
+0106399100,Pigeons
+0106399200,"Perdrix, cailles et grives"
+0106399300,Becassines
+0106399400,"Canards sauvages, Oies sauvages, coqs de bruyere et grouses"
+0106399900,Autres
+0106410000,Abeilles
+0106490000,Autres 
+0106901000,Destines aux parcs zoologiques 
+0106909100,Grenouilles
+0106909200,Vers de terre
+0106909900,Autres
+0201101100,De veaux
+0201101900,d'autres bovins domestiques
+0201102000,De buffles
+0201109000,d'autres bovins
+0201201000,De veaux de l’espece domestique
+0201202000,d'autres bovins domestiques
+0201203000,De buffles
+0201209000,d'autres bovins
+0201301100,De l’espece domestique 
+0201301200,De buffles
+0201301900,d'autres bovins
+0201302100,De l’espece domestique 
+0201302200,De buffles
+0201302900,d'autres bovins
+0201309100,De l’espece domestique 
+0201309200,De buffles
+0201309900,d'autres bovins
+0202101100,De veaux
+0202101900,d'autres bovins domestiques
+0202102000,De buffles
+0202109000,d'autres bovins
+0202201000,De veaux de l’espece domestique
+0202202000,d'autres bovins domestiques
+0202203000,De buffles
+0202209000,d'autres bovins
+0202209100,De veaux de l’espece domestique
+0202209200,d'autres bovins domestiques
+0202209300,De buffles
+0202209900,d'autres bovins
+0202301100,De l’espece domestique 
+0202301200,De buffles
+0202301900,d'autres bovins
+0202302100,De l’espece domestique 
+0202302200,De buffles
+0202302900,d'autres bovins
+0202309100,De l’espece domestique 
+0202309200,De buffles
+0202309900,d'autres bovins
+0203110000,En carcasses ou demi-carcasses
+0203121000,Jambons et morceaux de jambons
+0203122000,Epaules et morceauxd'epaules
+0203190000,Autres 
+0203210000,En carcasses ou demi-carcasses
+0203221000,De l’espece domestique 
+0203229000,Autres
+0203290000,Autres 
+0204101000,De l’espece domestique 
+0204109000,Autres
+0204211000,De l’espece domestique
+0204219000,Autres
+0204221100,d'agneau
+0204221900,Autres
+0204229000,Autres
+0204231100,De l’espece domestique 
+0204231900,Autres
+0204232100,De l’espece domestique 
+0204232900,Autres
+0204239100,De l’espece domestique 
+0204239900,Autres
+0204301000,De l’espece domestique 
+0204309000,Autres
+0204411000,De l’espece domestique 
+0204419000,Autres
+0204421100,d'agneau
+0204421900,Autres
+0204429000,Autres
+0204431100,De l’espece domestique 
+0204431900,Autres
+0204432100,De l’espece domestique 
+0204432900,Autres
+0204439100,De l’espece domestique 
+0204439900,Autres
+0204501100,De l’espece domestique 
+0204501900,Autres
+0204502100,De l’espece domestique 
+0204502900,Autres
+0204503100,De l’espece domestique 
+0204503900,Autres
+0204504100,De l’espece domestique 
+0204504900,Autres
+0204505100,De l’espece domestique 
+0204505900,Autres
+0204506100,De l’espece domestique 
+0204506900,Autres
+0205001100,Des especes chevalines
+0205001200,Des especes asine ou mulassiere
+0205002100,Des especes chevalines
+0205002200,Des especes asine ou mulassiere
+0206101000,Destines a la fabrication des produits pharmaceutiques
+0206109100,Langues
+0206109200,Foies
+0206109300,"Tetes et leurs morceaux (y compris les oreilles), pieds"
+0206109400,Onglets et hampes
+0206109900,Autres
+0206210000,Langues
+0206220000,Foies 
+0206291000,Destine a la fabrication des produits pharmaceutiques
+0206299100,Onglets et hampes
+0206299900,Autres
+0206301000,Destine a la fabrication des produits pharmaceutiques
+0206309000,Autres
+0206411000,Destine a la fabrication des produits pharmaceutiques
+0206419000,Autres
+0206491000,Destine a la fabrication des produits pharmaceutiques
+0206499000,Autres
+0206801000,Destine a la fabrication des produits pharmaceutiques
+0206809100,Des especes ovine ou caprine 
+0206809200,"Des especes chevaline, asine ou mulassiere "
+0206901000,Destine a la fabrication des produits pharmaceutiques
+0206909100,Des especes ovine ou caprine 
+0206909200,"Des especes chevaline, asine ou mulassiere "
+0207111000,"Presentes plumes, sans boyaux, avec la tete et les pattes, denommes « poulets 83% »"
+0207112000,"Presentes plumes, vides, sans la tete ni les pattes, mais avec le cou, le coeur, le foie et le gesier, denommes « poulets 70% »"
+0207119000,"Presentes plumes, vides, sans la tete ni les pattes et sans le cou, le coeur, le foie et le gesier, denommes « poulets 65% », ou autrement presentes"
+0207121000,"Presentes plumes, sans boyaux, avec la tete et les pattes, denommes « poulets 83% »"
+0207122000,"Presentes plumes, vides, sans la tete ni les pattes, mais avec le cou, le coeur, le foie et le gesier, denommes « poulets 70% »"
+0207129000,"Presentes plumes, vides, sans la tete ni les pattes et sans le cou, le coeur, le foie et le gesier, denommes « poulets 65% », ou autrement presentes"
+0207131000,Morceaux desosses
+0207132100,Demis ou quarts
+0207132200,"Ailes entieres, meme sans la pointe"
+0207132300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207132400,Poitrines et morceaux de poitrines
+0207132500,Cuisses et morceaux de cuisses
+0207132900,Autres
+0207133100,Foies
+0207133900,Autres
+0207141100,Broyees
+0207141200,"De brechet et escalope (poitrine) sans peau, non broyes"
+0207141300,"De cuisses entieres sans peau, non broyes"
+0207141900,Autres
+0207142100,Demis ou quarts
+0207142200,"Ailes entieres, meme sans la pointe"
+0207142300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207142400,Poitrines et morceaux de poitrines
+0207142500,Cuisses et morceaux de cuisses
+0207142900,Autres
+0207143100,Foies
+0207143900,Autres
+0207241000,"Presentes plumes, vides, sans la tete ni les pattes, avec le cou, le coeur, le foie et le gesier, denommes « dindes 80% »"
+0207249000,"Presentes plumes, vides, sans la tete ni le cou, sans les pattes, le coeur, le foie et le gesier, denommes « dindes 73% », ou autrement presentes"
+0207251000,"Presentes plumes, vides, sans la tete ni les pattes, avec le cou, le coeur, le foie et le gesier, denommes « dindes 80% »"
+0207259000,"Presentes plumes, vides, sans la tete ni le cou, sans les pattes, le coeur, le foie et le gesier, denommes « dindes 73% », ou autrement presentes"
+0207261100,Broyees
+0207261200,"De brechet et escalope (poitrine) sans peau, non broyes"
+0207261300,"De cuisses entieres sans peau, non broyes"
+0207261900,Autres
+0207262100,Demis ou quarts
+0207262200,"Ailes entieres, meme sans la pointe"
+0207262300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207262400,Poitrines et morceaux de poitrines
+0207262500,Cuisses et morceaux de cuisses
+0207262900,Autres
+0207263100,Foies
+0207263900,Autres
+0207271100,Broyees
+0207271200,"De brechet et escalope (poitrine) sans peau, non broyes"
+0207271300,"De cuisses entieres sans peau, non broyes"
+0207271900,Autres
+0207272100,Demis ou quarts
+0207272200,"Ailes entieres, meme sans la pointe"
+0207272300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207272400,Poitrines et morceaux de poitrines
+0207272500,Cuisses et morceaux de cuisses
+0207272900,Autres
+0207273100,Foies
+0207273900,Autres
+0207411000,"Presentes plumes, saignes, non-vides ou sans boyaux, avec la tete et les pattes, denommes « canards 85% »"
+0207412000,"Presentes plumes, vides, sans la tete ni les pattes, mais avec le cou, le coeur, le foie et le gesier, denommes « canards 70% »"
+0207419000,"Presentes plumes, vides, sans la tete ni les pattes et sans le cou, le coeur, le foie et le gesier, denommes « canards 63% »,  ou autrement presentes"
+0207421000,"Presentes plumes, vides, sans la tete ni les pattes, mais avec le cou, le coeur, le foie et le gesier, denommes « canards 70% »"
+0207429000,"Presentes plumes, vides, sans la tete ni les pattes et sans le cou, le coeur, le foie et le gesier, denommes « canards 63% »,  ou autrement presentes"
+0207430000,"Foies gras, frais ou refrigeres"
+0207441000,Morceaux desosses
+0207442100,Demis ou quarts
+0207442200,"Ailes entieres, meme sans la pointe"
+0207442300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207442400,Poitrines et morceaux de poitrines
+0207442500,Cuisses et morceaux de cuisses
+0207442900,Autres
+0207443100,"Foies, autres que les foies gras"
+0207443900,Autres
+0207451000,Morceaux desosses
+0207452100,Demis ou quarts
+0207452200,"Ailes entieres, meme sans la pointe"
+0207452300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207452400,Poitrines et morceaux de poitrines
+0207452500,Cuisses et morceaux de cuisses
+0207452900,Autres
+0207453100,Foies gras
+0207453200,"Foies, autres que les foies gras"
+0207453900,Autres
+0207511000,"Presentees plumees, saignees, non-videes, avec la tete et les pattes, denommees « oies 82% »"
+0207519000,"Presentees plumees, videes, sans la tete ni les pattes, avec ou sans le coeur et le gesier, denommees « oies 75% », ou autrement presentees"
+0207521000,"Presentees plumees, saignees, non-videes, avec la tete et les pattes, denommees « oies 82% »"
+0207529000,"Presentees plumees, videes, sans la tete ni les pattes, avec ou sans le coeur et le gesier, denommees « oies 75% », ou autrement presentees"
+0207530000,"Foies gras, frais ou refrigeres"
+0207541000,Morceaux desosses
+0207542100,Demis ou quarts
+0207542200,"Ailes entieres, meme sans la pointe"
+0207542300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207542400,Poitrines et morceaux de poitrines
+0207542500,Cuisses et morceaux de cuisses
+0207542900,Autres
+0207543100,"Foies, autres que les foies gras"
+0207543900,Autres
+0207551000,Morceaux desosses
+0207552100,Demis ou quarts
+0207552200,"Ailes entieres, meme sans la pointe"
+0207552300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207552400,Poitrines et morceaux de poitrines
+0207552500,Cuisses et morceaux de cuisses
+0207552900,Autres
+0207553100,Foies gras
+0207553200,"Foies, autres que les foies gras"
+0207553900,Autres
+0207601000,"Non decoupes en morceaux, frais ou refrigeres"
+0207602000,"Non decoupes en morceaux, congeles"
+0207603100,Frais ou refrigeres
+0207603200,Congeles
+0207604100,Demis ou quarts
+0207604200,"Ailes entieres, meme sans la pointe"
+0207604300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207604400,Poitrines et morceaux de poitrines
+0207604500,Cuisses et morceaux de cuisses
+0207604900,Autres
+0207605100,Demis ou quarts
+0207605200,"Ailes entieres, meme sans la pointe"
+0207605300,"Dos, cous, dos avec cous, croupions ou pointes d'ailes"
+0207605400,Poitrines et morceaux de poitrines
+0207605500,Cuisses et morceaux de cuisses
+0207605900,Autres
+0207606100,Foies
+0207606900,Autres
+0207607100,Foies
+0207607900,Autres
+0208101100,Desossees
+0208101200,Non desossees
+0208102100,Desossees
+0208102200,Non desossees
+0208103100,Desossees
+0208103200,Non desossees
+0208104100,Desossees
+0208104200,Non desossees
+0208105100,Destines a la fabrication de produits pharmaceutiques
+0208105200,de lapins
+0208105300,de lievres
+0208106100,Destines a la fabrication de produits pharmaceutiques
+0208106200,de lapins
+0208106300,de lievres
+0208301000,"Viandes, fraiches ou refrigerees "
+0208302000,Viandes congelees 
+0208303100,Destines a la fabrication de produits pharmaceutiques
+0208303900,Autres
+0208304100,Destines a la fabrication de produits pharmaceutiques
+0208304900,Autres
+0208401100,De baleines
+0208401200,De dauphins et marsouins
+0208401300,De lamantins et dugongs
+0208401400,Ded'otaries et phoques
+0208401500,De lions de mer et morses
+0208402100,De baleines
+0208402200,De dauphins et marsouins
+0208402300,De lamantins et dugongs
+0208402400,Ded'otaries et phoques
+0208402500,De lions de mer et morses
+0208403100,Destines a la fabrication de produits pharmaceutiques
+0208403900,Autres
+0208404100,Destines a la fabrication de produits pharmaceutiques
+0208404900,Autres
+0208501000,Viandes fraiches ou refrigerees
+0208502000,Viandes congelees
+0208503100,Destines a la fabrication de produits pharmaceutiques
+0208503900,Autres
+0208504100,Destines a la fabrication de produits pharmaceutiques
+0208504900,Autres
+0208601100,Desossees
+0208601200,Non desossees
+0208602100,Desossees
+0208602200,Non desossees
+0208603100,Destines a la fabrication de produits pharmaceutiques
+0208603900,Autres
+0208604100,Destines a la fabrication de produits pharmaceutiques
+0208604900,Autres
+0208901100,"De cailles, canards et oies sauvages"
+0208901200,Cuisses de grenouilles
+0208901300,De pigeons domestiques
+0208901900,Autres
+0208902100,"De cailles, canards et oies sauvages"
+0208902200,Cuisses de grenouilles
+0208902300,De pigeons domestiques
+0208902900,Autres
+0208903100,Destines a la fabrication de produits pharmaceutiques
+0208903900,Autres
+0208904100,Destines a la fabrication de produits pharmaceutiques
+0208904900,Autres
+0209101100,"Frais, refrigeres"
+0209101200,Congeles
+0209101300,Sales ou en saumure
+0209101400,Seches ou fumes 
+0209102100,"Frais, refrigeres"
+0209102200,Congeles
+0209102300,Sales ou en saumure
+0209102400,Seches ou fumes 
+0209901100,"Frais, refrigeres"
+0209901200,Congeles
+0209901300,Sales ou en saumure
+0209901400,Seches ou fumes 
+0209909100,"Frais, refrigeres"
+0209909200,Congeles
+0209909300,Sales ou en saumure
+0209909400,Seches ou fumes 
+0210111000,Sales ou en saumure
+0210112000,Seches ou fumes 
+0210121000,Sales ou en saumure
+0210122000,Seches ou fumes 
+0210191000,Sales ou en saumure
+0210192000,Seches ou fumes 
+0210201100,Sales ou en saumure
+0210201200,Seches ou fumes 
+0210202100,Sales ou en saumure
+0210202200,Seches ou fumes 
+0210911100,Sales ou en saumure
+0210911200,Seches ou fumes
+0210912000,Abats
+0210913000,"Farines et poudres, comestibles, de viandes ou d'abats"
+0210921110,Sales ou en saumure
+0210921120,Seches ou fumes 
+0210921200,Abats
+0210921300,"Farines et poudres, comestibles, de viandes ou d'abats"
+0210922110,Sales ou en saumure
+0210922120,Seches ou fumes 
+0210922200,Abats
+0210922300,"Farines et poudres, comestibles, de viandes ou d'abats"
+0210931000,Viandes
+0210932000,Abats
+0210933000,"Farines et poudres, comestibles, de viandes ou d'abats"
+0210991100,Des especes ovine ou caprine
+0210991200,De volailles
+0210991900,d'autres especes
+0210992100,De l'espece porcine
+0210992200,De l'espece bovine
+0210992300,Des especes ovine ou caprine
+0210992400,De volailles
+0210992900,d'autres especes
+0210993100,De l'espece porcine
+0210993200,De l'espece bovine
+0210993300,Des especes ovine et caprine
+0210993400,De volailles
+0210993900,d'autres especes

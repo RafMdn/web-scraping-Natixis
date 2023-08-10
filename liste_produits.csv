@@ -6628,29 +6628,6 @@ Code,Label
 3809931200,Preparations pour le mordançage
 3809939100,Presentes sous formed'articles ou dans des formes propres a la vente au detail ou bien en emballagesd'une contenance nette n'excedant pas 1 kg
 3809939900,Autres
-3810101000,Preparations pour le decapage des metaux
-3810102000,Pates et poudres a souder ou a braser composees de metal et d'autres produits
-3810901100,Flux a arc immerge pour soudure a l'arc
-3810901200,Pates et poudres a souder ou a braser
-3810901900,Autres
-3810902000,Preparations des types utilises pour l'enrobage ou le fourrage des electrodes ou des baguettes de soudage
-3811111000,A base de plomb tetraethyle (ethyle-fluid)
-3811112000,A base de plomb tetramethyle
-3811119100,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
-3811119910,Conditionnés pour la vente au détail
-3811119920,Non conditionnés pour la vente au détail
-3811191000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
-3811199100,Conditionnés pour la vente au détail
-3811199200,Non conditionnés pour la vente au détail
-3811211000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
-3811219100,Conditionnés pour la vente au détail
-3811219200,Non conditionnés pour la vente au détail
-3811291000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
-3811299100,Conditionnés pour la vente au détail
-3811299200,Non conditionnés pour la vente au détail
-3811901000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
-3811909100,Conditionnés pour la vente au détail
-3811909200,Non conditionnés pour la vente au détail
 3812100000,Preparations dites «accelerateurs de vulcanisation»
 3812200000,Plastifiants composites pour caoutchouc ou matieres plastiques 
 3812310000,"Mélanges d’oligomères de 2,2,4-trimethyl-1,2-dihydroquinoline (TMQ)"
@@ -6668,6 +6645,12 @@ Code,Label
 3814009100,Preparations destinees au degraissage des pieces mecaniques
 3814009200,Preparations conçues pour enlever les peintures ou les vernis
 3814009900,Autres solvants et diluants organiques composites
+3815110000,Ayant comme substance active le nickel ou un compose de nickel 
+3815120000,Ayant comme substance active un metal precieux ou un compose de metal precieux 
+3815191000,Ayant comme substance active la Zéolithe
+3815199000,Autres catalyseurs supportés
+3815901000,Catalyseurs autres que ceux supportés
+3815909000,"Autres initiateurs de réaction, accélérateurs de réaction et préparations catalytiques"
 3816001100,En poudre
 3816001900,Autres
 3816009100,Destinés pour le revêtement intérieur des fours
@@ -12870,18 +12853,6 @@ Code,Label
 8308902000,Fermoirs et montures-fermoirs
 8308903000,Boucles
 8308909000,"Autres, y compris les parties "
-8309101000,Imprimes
-8309109000,Autres
-8309901000,Scelles de tout genre
-8309902000,Couvercles a ouverture facile pour boîtes de boissons ou pour denrees alimentaires
-8309903000,"Bouchons-verseurs, bouchons-doseurs, bouchons-compte-gouttes et similaires"
-8309904000,Capsules de bouchage ou de surbouchage
-8309905000,Bondes filetees pour fûts metalliques
-8309909000,Autres 
-8310001000,Plaques specialement conçues pour l’equipement des vehicules automobiles
-8310002000,"Plaques indicatrices pour routes, rues, sites, localites et similaires"
-8310003000,Plaques pour la signalisation routiere
-8310009000,Autres
 8311100000,"Electrodes enrobees pour le soudage a l'arc, en metaux communs"
 8311200000,"Fils fourres pour le soudage a l'arc, en metaux communs "
 8311300000,"Baguettes enrobees et fils fourres pour le brasage ou le soudage a la flamme, en metaux communs "
@@ -13907,6 +13878,43 @@ Code,Label
 8461901100,A commande numerique
 8461901900,Autres
 8461909000,Autres
+8462110000,Machines pour le forgeage à matrice fermée
+8462191000,A commande numérique
+8462199000,Autres
+8462221000,A commande numérique
+8462229000,Autres
+8462230000,"Presses plieuses, à commande numérique"
+8462240000,"Presses à panneaux, à commande numérique"
+8462250000,"Machines à profiler à galets, à commande numérique"
+8462260000,"Autres machines à rouler, cintrer, plier, dresser ou planer, à commande numérique"
+8462292000,A commande numérique
+8462299000,Autres
+8462320000,Lignes de refendage et lignes de découpe à longueur
+8462330000,"Machines à cisailler, à commande numérique"
+8462390000,Autres
+8462420000,À commande numérique
+8462490000,Autres
+8462510000,À commande numérique
+8462590000,Autres
+8462611000,A commande numérique
+8462619000,Autres
+8462621000,A commande numérique
+8462629000,Autres
+8462631000,A commande numérique
+8462639000,Autres
+8462691000,A commande numérique
+8462699010,Presses à extruder ou à filer
+8462699090,"Autres presses à froid à métaux, à commande non numérique"
+8462901000,A commande numérique
+8462909000,"Autres machines pour le travail des métaux, non numérique"
+8463101000,Bancs a etirer les fils
+8463109000,"Bancs a etirer les barres, tubes, profiles ou similaires"
+8463201000,A commande numerique
+8463209000,Autres 
+8463300000,Machines pour le travail des metaux sous forme de fil
+8463901100,A commande numerique
+8463901900,Autres 
+8463909000,Autres 
 8464101100,Manuelles
 8464101900,Autres
 8464109100,Machines a scier a froid le verre
@@ -17232,46 +17240,38 @@ Code,Label
 9800000000,Effets personnels
 9810100000,marchandise destinee a etre exposees ou faire l'objet d'une demonstration
 9810200000,marchandises autres que celles destinees à l'exposition ou à la demonstration
-3815110000,Ayant comme substance active le nickel ou un compose de nickel 
-3815120000,Ayant comme substance active un metal precieux ou un compose de metal precieux 
-3815191000,Ayant comme substance active la Zéolithe
-3815199000,Autres catalyseurs supportés
-3815901000,Catalyseurs autres que ceux supportés
-3815909000,"Autres initiateurs de réaction, accélérateurs de réaction et préparations catalytiques"
-8462110000,Machines pour le forgeage à matrice fermée
-8462191000,A commande numérique
-8462199000,Autres
-8462221000,A commande numérique
-8462229000,Autres
-8462230000,"Presses plieuses, à commande numérique"
-8462240000,"Presses à panneaux, à commande numérique"
-8462250000,"Machines à profiler à galets, à commande numérique"
-8462260000,"Autres machines à rouler, cintrer, plier, dresser ou planer, à commande numérique"
-8462292000,A commande numérique
-8462299000,Autres
-8462320000,Lignes de refendage et lignes de découpe à longueur
-8462330000,"Machines à cisailler, à commande numérique"
-8462390000,Autres
-8462420000,À commande numérique
-8462490000,Autres
-8462510000,À commande numérique
-8462590000,Autres
-8462611000,A commande numérique
-8462619000,Autres
-8462621000,A commande numérique
-8462629000,Autres
-8462631000,A commande numérique
-8462639000,Autres
-8462691000,A commande numérique
-8462699010,Presses à extruder ou à filer
-8462699090,"Autres presses à froid à métaux, à commande non numérique"
-8462901000,A commande numérique
-8462909000,"Autres machines pour le travail des métaux, non numérique"
-8463101000,Bancs a etirer les fils
-8463109000,"Bancs a etirer les barres, tubes, profiles ou similaires"
-8463201000,A commande numerique
-8463209000,Autres 
-8463300000,Machines pour le travail des metaux sous forme de fil
-8463901100,A commande numerique
-8463901900,Autres 
-8463909000,Autres 
+3810101000,Preparations pour le decapage des metaux
+3810102000,Pates et poudres a souder ou a braser composees de metal et d'autres produits
+3810901100,Flux a arc immerge pour soudure a l'arc
+3810901200,Pates et poudres a souder ou a braser
+3810901900,Autres
+3810902000,Preparations des types utilises pour l'enrobage ou le fourrage des electrodes ou des baguettes de soudage
+3811111000,A base de plomb tetraethyle (ethyle-fluid)
+3811112000,A base de plomb tetramethyle
+3811119100,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
+3811119910,Conditionnés pour la vente au détail
+3811119920,Non conditionnés pour la vente au détail
+3811191000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
+3811199100,Conditionnés pour la vente au détail
+3811199200,Non conditionnés pour la vente au détail
+3811211000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
+3811219100,Conditionnés pour la vente au détail
+3811219200,Non conditionnés pour la vente au détail
+3811291000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
+3811299100,Conditionnés pour la vente au détail
+3811299200,Non conditionnés pour la vente au détail
+3811901000,Presentes sous formed'articles ou dans des formes propres a la vente au detaild'une contenance nette n'excedant pas 1 kg
+3811909100,Conditionnés pour la vente au détail
+3811909200,Non conditionnés pour la vente au détail
+8309101000,Imprimes
+8309109000,Autres
+8309901000,Scelles de tout genre
+8309902000,Couvercles a ouverture facile pour boîtes de boissons ou pour denrees alimentaires
+8309903000,"Bouchons-verseurs, bouchons-doseurs, bouchons-compte-gouttes et similaires"
+8309904000,Capsules de bouchage ou de surbouchage
+8309905000,Bondes filetees pour fûts metalliques
+8309909000,Autres 
+8310001000,Plaques specialement conçues pour l’equipement des vehicules automobiles
+8310002000,"Plaques indicatrices pour routes, rues, sites, localites et similaires"
+8310003000,Plaques pour la signalisation routiere
+8310009000,Autres
