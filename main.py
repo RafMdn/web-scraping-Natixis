@@ -73,7 +73,8 @@ if __name__ == "__main__":
     save_produits_to_csv_file(PATH_FICHIER_LISTE_PRODUITS_RETIRES,liste_produits_retires)
 
     # Envoyer le résultat par mail
-    send_emails(DESTINATAIRES)
+    send_emails(DESTINATAIRES ,
+            [PATH_FICHIER_LISTE_PRODUITS_DOUANE ,PATH_FICHIER_LISTE_PRODUITS_AJOUTES,PATH_FICHIER_LISTE_PRODUITS_RETIRES ])
 
     # Calcul du temps d'exécution 
     temps_fin = timeit.default_timer()
@@ -86,7 +87,6 @@ if __name__ == "__main__":
     print("liste des liens qui ont eu une deuxieme chance  : " ,liste_liens_deuxieme_chance)
     print("nombre de liens qui ont eu une troisieme chance : " , len(liste_liens_troisieme_chance))
     print("liste des liens qui ont eu une troisieme chance : " ,liste_liens_troisieme_chance)
-    print("nb acces : " , len(liens_par_rangee) + len(liens_des_chapitre) + len(liens_des_sections) + len(liste_liens_deuxieme_chance) + len(liste_liens_troisieme_chance) + 1)
 
 
         

@@ -20,7 +20,7 @@ PROXY = "http://QX6:2023ESI2023ESI_@172.19.78.70:8080"
 
 # Définissez les adresses email
 EXPEDITEUR = "testemailtest73@gmail.com"
-DESTINATAIRES = ["kr_madani@esi.dz"]
+DESTINATAIRES = ["kr_madani@esi.dz" , "ka_hamza@esi.dz"]
 
 # Définissez le mot de passe application
 PASSWORD = "zapvvxrkqkdlsobi"

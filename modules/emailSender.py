@@ -3,10 +3,11 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
-from config import EXPEDITEUR , DESTINATAIRES , PATH_FICHIER_LISTE_PRODUITS_DOUANE , PATH_FICHIER_LISTE_PRODUITS_AJOUTES , PATH_FICHIER_LISTE_PRODUITS_RETIRES , PASSWORD , SMTP_PORT , SMTP_SERVER
+from config import EXPEDITEUR , PASSWORD , SMTP_PORT , SMTP_SERVER
+
 
 # Envoyer des emails
-def send_emails(liste_destinataires):
+def send_emails(liste_destinataires,liste_fichiers):
     # Objet du message
     objet = "mise à jour des produits douane"
 
@@ -26,8 +27,7 @@ def send_emails(liste_destinataires):
         # Attachement du corps du message
         msg.attach(MIMEText(body, 'plain'))
         # Liste des fichiers à attacher
-        files = [PATH_FICHIER_LISTE_PRODUITS_RETIRES,PATH_FICHIER_LISTE_PRODUITS_AJOUTES,PATH_FICHIER_LISTE_PRODUITS_DOUANE]
-        for file in files:
+        for file in liste_fichiers:
 
             with open(file, 'rb') as f:
     
@@ -61,6 +61,4 @@ def send_emails(liste_destinataires):
 
     # Fermeture de la connexion au serveur SMTP
     TIE_server.quit()
-
-
 
